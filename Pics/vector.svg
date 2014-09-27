@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_1" height="267" width="295" y="102" x="106" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ff0000"/>
+  <polygon stroke-width="5" stroke="#000000" points="373.1432172129821,246 287.362363855192,364.0672156842513 148.56602753831697,318.969552249932 148.56602753831697,173.03044775006802 287.362363855192,127.93278431574868 373.1432172129821,245.99999999999997 " strokeWidth="5" strokecolor="#000000" fill="#003fff" edge="145.939104" orient="x" sides="5" shape="regularPoly" id="svg_4" cy="246" cx="249"/>
+  <polygon strokeWidth="5" strokecolor="#000000" fill="#003fff" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_5" cy="220" cx="486"/>
+  <ellipse ry="28" rx="33" id="svg_8" cy="134" cx="144" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#007f00"/>
+ </g>
+</svg>
