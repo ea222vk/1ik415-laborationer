@@ -1,0 +1,38 @@
+p { color: #FF0000;
+    }
+    
+a:link { color: green; }
+a:visited { color: black; }
+a:focus { color: black; }
+a:hover { color: red; }
+a:active { color: black;}
+
+ 
+ #header {
+     
+     
+ }
+ 
+ 
+ #navigation {
+     border: 2px solid blue;
+     width:200px;
+     float: left;
+     margin-top: 100px;
+     
+ }
+
+ #content {
+    background-color: yellow;
+    margin-left: 204px;
+    
+}
+
+
+ #container {
+    background:#CCC;
+    overflow: auto;
+    max-width: 960px;
+    margin: 0 auto;
+     
+ }
