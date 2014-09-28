@@ -16,10 +16,54 @@
             <h1>Kontakta mig</h1>
     
         <h2>Kontaktuppgifter</h2>
-        <p>Om du vill komma i kontakt med mig kan du maila
-            på min studentmail.
+        <p>Du kan använda formuläret nedan för att komma i kontakt med mig.
         </p>
         
+        
+        <form action="http://voyager.lnu.se/tekinet/kurser/dtt/wp_webbintro/form.php" method="post">
+          
+          <fieldset>
+              <legend>Ditt namn</legend>
+              
+              <label for="Tilltalsnamn">Tilltalsnamn</label>
+                <input type ="text" id="Tilltalsnamn" name="Tilltalsnamn" />
+              
+              <label for="Efternamn">Efternamn</label>
+                 <input type="text" id="Efternamn" name="Efternamn" />
+          </fieldset>
+            
+            <fieldset>
+                <legend>Kön</legend>
+                    
+                    <label for="Man">Man</label>
+                <input type="radio" id="Man" name="Man" value="Man" />
+                    
+                    <label for="Kvinna">Kvinna</label>
+                <input type="radio" id="Kvinna" name="Kvinna" value="Kvinna" />
+                
+            </fieldset>
+            
+            <fieldset>
+                <legend>Ditt ärende</legend>
+             <textarea rows="5" cols="15"></textarea>
+            </fieldset>
+            
+            <fieldset>
+            <legend>Ärendets prioritering</legend>
+          
+          <select name="Ärendets prioritering">
+            <option value="Mycket brådskande" selected>Mycket brådskande</option>
+            <option value="Snarast möjligt">Snarast möjligt</option>
+            <option value="Inom en vecka">Inom en vecka</option>
+            <option value="I mån av tid">I mån av tid</option>
+        </select>
+        
+        </fieldset>
+        
+        <input type="submit" value="Skicka"/>
+          
+            
+        </form>
         
     </body>  
 </html>
